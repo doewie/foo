@@ -8,7 +8,7 @@ set(CMAKE_CXX_STANDARD 17)
 pico_sdk_init()
 
 add_executable(foo
-    foo.c
+    foo.c testlib.c
 )
 
 pico_enable_stdio_usb(foo 1)
