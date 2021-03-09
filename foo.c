@@ -14,6 +14,8 @@ int main() {
     sleep_ms(10 * 1000); // wait for 10 seconds
     
     printf("started foo test\n");
+    testprint();
+    testPrintValue(10);
 
     while (true) {
     }

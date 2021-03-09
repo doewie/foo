@@ -3,6 +3,7 @@
 
 
 void testprint();
+void testPrintValue(int value);
 
 
 #endif // #ifndef

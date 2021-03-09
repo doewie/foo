@@ -6,3 +6,7 @@
 void testprint(){
     printf("testprint\n");
 }
+
+void testPrintValue(int value) {
+    printf("Value: %d\n", value);
+}
