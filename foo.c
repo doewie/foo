@@ -12,7 +12,7 @@ int main() {
     stdio_init_all();
     sleep_ms(10 * 1000); // wait for 10 seconds
     
-    printf("started LED-blinker test + I2C-scanner\n\n");
+    printf("started foo test\n");
 
     while (true) {
     }
