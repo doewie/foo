@@ -5,6 +5,7 @@
 
 #include <stdio.h>
 #include "pico/stdlib.h"
+#include "testlib.h"
 
 // main routine, ends with endless while loop
 int main() {
